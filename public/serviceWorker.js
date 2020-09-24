@@ -1,5 +1,5 @@
 
-const cacheName = 'version-2';
+const cacheName = 'version-10';
 
 // Cache Application in Cache Storage
 self.addEventListener('install', e => {
